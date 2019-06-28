@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="player"
+>
+  <div
+    className="player-identity"
+  >
+    <img
+      className="picture"
+      src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/325225.jpg"
+    />
+    <img
+      alt="SUI"
+      className="flag"
+      src="https://i.eurosport.com/_iss_/geo/country/flag/large/2213.png"
+    />
+    <div>
+      <span>
+        Stan Wawrinka
+      </span>
+    </div>
+  </div>
+  <div
+    className="player-stat"
+  >
+    <div>
+      <span
+        className="player-stat-name"
+      >
+        Rank
+      </span>
+      <p
+        className="player-stat-value"
+      >
+        21
+      </p>
+    </div>
+    <div>
+      <span
+        className="player-stat-name"
+      >
+        Points
+      </span>
+      <p
+        className="player-stat-value"
+      >
+        1784
+      </p>
+    </div>
+    <div>
+      <span
+        className="player-stat-name"
+      >
+        Weight
+      </span>
+      <p
+        className="player-stat-value"
+      >
+        810 Kg
+      </p>
+    </div>
+    <div>
+      <span
+        className="player-stat-name"
+      >
+        Age
+      </span>
+      <p
+        className="player-stat-value"
+      >
+        33
+      </p>
+    </div>
+    <div>
+      <span
+        className="player-stat-name"
+      >
+        Last
+      </span>
+      <p
+        className="player-stat-value"
+      >
+        1
+        1
+        1
+        0
+        1
+      </p>
+    </div>
+  </div>
+</div>
+`;

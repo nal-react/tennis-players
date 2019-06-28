@@ -1,0 +1,45 @@
+.player {
+    border: 1px solid grey;
+    width: 50%;
+    max-width: 85%;
+    margin: 1rem auto;  
+}
+
+.player-identity {
+    padding: 1rem;
+    text-align: left
+}
+
+.player-identity .picture{
+    width: 15%;
+    vertical-align: middle; 
+}
+
+.player-identity .flag{
+    width: 15%;
+    float:right; 
+}
+
+.player-stat{
+    clear:both;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top: 1px dashed #C9C9CB;
+}
+
+.player-stat-name{
+    display: block;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+.player-stat-value{
+    font-weight: bold;
+    color: green;
+    font-size: 1rem;
+    text-align: center;
+}
+
+
